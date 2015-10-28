@@ -1,2 +1,2 @@
-# php-mvc-framework
+# PHP-MVC-Framework
 Custom PHP MVC framework
